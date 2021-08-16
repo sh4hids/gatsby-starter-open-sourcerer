@@ -1,0 +1,27 @@
+title: Projects
+metaDescription: Laborum qui laboris veniam non exercitation consectetur sunt ut consequat elit enim sunt veniam aute.
+pageType: Projects
+contents:
+  - name: gatsby-theme-open-sourcerer
+    type: Project
+    description: A configurable minimal gatsby portfolio theme for open source developers.
+    url: https://github.com/sh4hids/gatsby-theme-open-sourcerer
+    githubRepo: 'sh4hids/gatsby-theme-open-sourcerer'
+
+  - name: Gatsby
+    type: Project
+    description: Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps
+    url: https://github.com/gatsbyjs/gatsby
+    githubRepo: 'gatsbyjs/gatsby'
+
+  - name: Book Manager
+    type: Project
+    description: A simple personal library management application.
+    url: https://github.com/bdTechies/book-manager
+    githubRepo: 'bdTechies/book-manager'
+
+  - name: Deskaide
+    type: Project
+    description: An aide to your desk life!
+    url: https://github.com/deskaide/deskaide
+    githubRepo: 'deskaide/deskaide'
