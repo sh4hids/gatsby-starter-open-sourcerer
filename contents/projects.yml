@@ -10,7 +10,7 @@ contents:
 
   - name: Gatsby
     type: Project
-    description: Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps
+    description: Gatsby is a free and open source framework based on React that helps developers build blazing fast websites
     url: https://github.com/gatsbyjs/gatsby
     githubRepo: 'gatsbyjs/gatsby'
 
