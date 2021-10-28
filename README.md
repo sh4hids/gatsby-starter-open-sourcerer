@@ -10,6 +10,12 @@ Use [gatsby-cli](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli) to b
 gatsby new my-site https://github.com/sh4hids/gatsby-starter-open-sourcerer
 ```
 
+For gatsby v3:
+
+```bash
+gatsby new my-site https://github.com/sh4hids/gatsby-starter-open-sourcerer.git#gatsby-v3
+```
+
 2. Start development server
 
 Navigate to the site directory and start the development server:
